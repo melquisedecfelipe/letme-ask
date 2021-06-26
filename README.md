@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Let Me Ask" src="./.github/logo.png" />
+    <img alt="Let Me Ask" src="./.github/logo.svg" />
 </h1>
 
 <p align="center">
